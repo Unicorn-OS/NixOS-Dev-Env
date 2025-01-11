@@ -51,6 +51,10 @@
 
 
   environment.systemPackages = with pkgs; [
+# Alchemy
+    transmission_4
+    transmission_4-gtk
+
 # Dev
     cowsay
     lolcat
