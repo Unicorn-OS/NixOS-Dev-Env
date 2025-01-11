@@ -55,6 +55,10 @@
     transmission_4
     transmission_4-gtk
 
+# Browser
+    brave
+    chromium
+
 # Dev
     cowsay
     lolcat
